@@ -1,0 +1,9 @@
+id,requester,subject,body,created_at,status
+T-101,sara@example.com,Cannot log in to my account,I cannot log in to my account since this morning. The login page shows an error after I enter my details.,2026-10-01T09:00:00Z,open
+T-102,sara@example.com,"Re: Cannot log in to my account [#101]",Still cannot log in to my account. The login page shows the same error after I enter my details.,2026-10-02T10:30:00Z,open
+T-103,omar@example.org,Invoice total is wrong,My invoice total is wrong for October. The invoice charges me twice for the same plan.,2026-10-03T08:00:00Z,closed
+T-104,omar@example.org,Invoice total wrong again,The invoice total is wrong again for October and charges me twice for the same plan.,2026-10-18T08:30:00Z,open
+T-105,lee@example.com,App crashes on startup,The app crashes on startup every time I open it on my phone.,2026-10-04T12:00:00Z,open
+T-106,lee@example.com,Question about export feature,How do I export my reports to a spreadsheet file for my manager?,2026-10-05T12:00:00Z,open
+T-107,ana@example.com,Cannot log in to my account,I cannot log in to my account since this morning. The login page shows an error.,2026-10-01T11:00:00Z,open
+T-108,sara@example.com,Delivery address change,Please change the delivery address for my latest order to my office address.,2026-10-06T09:00:00Z,open

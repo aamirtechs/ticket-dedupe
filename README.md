@@ -1,5 +1,6 @@
 # ticket-dedupe
 Live page: https://aamirtechs.github.io/ticket-dedupe/
+Use it in your browser: the Pages site above runs the full tool locally, no install needed.
 
 Scan a ticket export offline and cluster likely duplicate and repeat contacts into a human merge review sheet. It never merges, closes, or modifies anything.
 
